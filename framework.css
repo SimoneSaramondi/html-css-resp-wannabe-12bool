@@ -72,13 +72,12 @@
 }
 
 @media all and (min-width: 768px ) and (max-width: 991px) {
-
-    .first{
-        background-color: rgb(113, 165, 106);
-    }
-    .row h1{
+    h1{
         position: relative;
         left: 50%;
+    }
+    .first{
+        background-color: rgb(113, 165, 106);
     }
     .background-color-img{
         width: 200px;
@@ -136,13 +135,12 @@
 }
 
 @media all and (max-width: 767px) {
-
-    .first{
-        background-color: rgb(187, 187, 105);
-    }
-    .row h1{
+    h1{
         position: relative;
         left: 50%;
+    }
+    .first{
+        background-color: rgb(187, 187, 105);
     }
     .background-color-img{
         width: 200px;

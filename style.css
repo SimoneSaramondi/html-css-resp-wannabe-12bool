@@ -4,10 +4,6 @@
   box-sizing: border-box;
 }
 
-.row{
-  border: 1px solid;
-}
-
 h1,h3,p{
   text-align: center;
   padding: 10px;
